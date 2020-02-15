@@ -1,0 +1,4 @@
+cbfgs
+*.his
+*.o
+*.dat
